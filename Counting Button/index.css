@@ -1,0 +1,13 @@
+body{
+    text-align: center ;
+}
+h2{
+    margin-top: -15px;
+    padding-bottom: 10px;
+}
+button{
+    color: purple;
+    font-weight: bold;
+    height: 35px;
+    width: 200px;
+}
